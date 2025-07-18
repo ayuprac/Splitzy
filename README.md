@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Splitzy 
 
-## Getting Started
+**Splitzy** is a full-stack expense splitting web application designed to simplify group expense tracking and settlement. Whether you're on a trip with friends, sharing rent with roommates, or managing office expenses, Splitzy helps you keep track of shared costs, who paid what, and who owes whom — all in one place.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🧑‍🤝‍🧑 **Group Management**  
+  Create groups and invite friends to start tracking shared expenses.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 💰 **Add & Split Expenses**  
+  Log expenses with custom split logic (equally or unequally).
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- 📊 **Real-Time Balance Calculation**  
+  Instantly see how much each member owes or is owed.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🔁 **Settle Up**  
+  Simplify payments with clear settlement suggestions and payment tracking.
 
-## Learn More
+- 📈 **Expense Summary**  
+  Get insights with per-person and per-group summaries.
 
-To learn more about Next.js, take a look at the following resources:
+- 🌐 **Responsive UI**  
+  Built with a modern tech stack and responsive design for all devices.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🖼️ Screenshots
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<img width="1721" height="966" alt="image" src="https://github.com/user-attachments/assets/e264f95d-29aa-49f4-9b29-0141af82471d" />
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<img width="1903" height="966" alt="sc_2" src="https://github.com/user-attachments/assets/b604f542-5843-4dbd-a0f3-2946f6788d89" />
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+<img width="1883" height="965" alt="image" src="https://github.com/user-attachments/assets/54457697-343a-45ef-b114-0897e5c72c77" />
+
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS, ShadcnUI
+- **Backend:** Node.js, Express.js
+- **Database:** Convex
+- **Deployment:**  Vercel 
+
+
