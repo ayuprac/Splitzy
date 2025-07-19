@@ -38,6 +38,8 @@
 - **Frontend:** React.js, Tailwind CSS, ShadcnUI
 - **Backend:** Node.js, Express.js
 - **Database:** Convex
-- **Deployment:**  Vercel 
+- **Deployment:**  Vercel
 
+---
+## 👉 Designed and Created by Ayush 
 
