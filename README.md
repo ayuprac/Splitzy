@@ -1,6 +1,12 @@
 # Splitzy 
 
 **Splitzy** is a full-stack expense splitting web application designed to simplify group expense tracking and settlement. Whether you're on a trip with friends, sharing rent with roommates, or managing office expenses, Splitzy helps you keep track of shared costs, who paid what, and who owes whom — all in one place.
+---
+
+## 🔗 Live Demo
+
+👉 [Visit Splitzy🪙 Live](https://splitzy-umber.vercel.app/)
+
 
 ## 🚀 Features
 
